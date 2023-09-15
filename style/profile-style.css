@@ -1,0 +1,40 @@
+header {
+border-bottom: 1px solid black;
+margin: -8px;
+}
+header > h1 {
+    font-size: 4rem;
+    text-align: center;
+    margin: 70px;
+}
+
+main {
+    padding: 200px 10px 10px 10px;
+}
+main > nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 200px 0px 200px;
+}
+
+.item {
+    display: flex;
+    border-radius: 10px;
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 4px 15px 1px  rgba(0, 0, 0, 0.170);
+    border: 1px solid rgba(0, 0, 0, 0.158);
+    text-decoration: none;
+    color: black;
+    transition: 200ms;
+} .item:active {
+    color: black;
+} .item:hover {
+    margin: -0px -11px -0px -11px;
+    border: 3px solid rgba(0, 0, 0, 0.329);
+    box-shadow: 2px 4px 15px 1px  rgba(0, 0, 0, 0.267);
+    height: 120px;
+    width: 120px;
+}

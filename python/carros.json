@@ -1,0 +1,128 @@
+{
+    "Chevrolet Onix": {
+        "_path":"../Fotos//Onix//Onix.png",
+        "spect":{
+            "1.0 aspirada": 69920,
+            "1.0 turbo": 75020
+        }
+    },
+
+    "Fiat Grand Siena": {
+        "_path":"../Fotos//Siena//Grand_Siena.png",
+        "spect": {
+            "1.0 Fire Evo": 69125,
+            "1.4 Fire Evo": 73125
+        }
+    },
+
+    "Fiat Uno": {
+        "_path": "../Fotos//Uno//Uno.png",
+        "spect": {
+            "1.0 Flex": 68695,
+            "1.3 Firefly Flex": 70000
+        }
+    },
+
+    "Hyundai HB20": {
+        "_path": "../Fotos//HB20//HB20.png",
+        "spect":{
+            "1.0 aspirado": 68225,
+            "1.0 turbo": 69725
+    }},
+
+    "Volkswagen Gol": {"_path": "../Fotos//Gol//Gol.png",
+    "spect":{
+        "1.0 comum": 65231
+    }},
+
+    "Volkswagen Fox": {"_path": "../Fotos//Fox//Fox.png",
+    "spect":{ 
+        "1.6 8V": 64120
+    }},
+
+    "Chevrolet Joy": {"_path": "../Fotos//Joy//Joy.png",
+    "spect":{
+     "1.0": 54200
+    }},
+    "Fiat Mobi": {"_path": "../Fotos//Mobi//Mobi.png",
+    "spect":{
+         "1.0": 59190
+    }},
+    "Ford Ka": {"_path": "../Fotos//Ka//Ka.png",
+    "spect":{            
+        "1.0": 52694,
+        "1.5": 55694
+    }},
+    "Renault Kwid": {"_path": "../Fotos//Kwid//Kwid.png",
+    "spect":{
+        "1.0 SCe": 50240
+    }},
+    "Towner Panel Van": {"_path": "../Fotos//Van//Van.png",
+    "spect":{
+        "796": 3746
+    }},
+    "106 Soleil": {"_path": "../Fotos//Soleil//Soleil.png",
+    "spect":{
+        "1.0": 6275
+    }},
+    "Cuore CS/CSL": {"_path": "../Fotos//Coure//Coure.png",
+    "spect":{
+        "800": 10618
+    }},
+    "Clio RN": {"_path": "../Fotos//Clio//Clio.png",
+    "spect":{
+        "1.6": 5904
+    }},
+    "Sephia LS": {"_path": "../Fotos//Sephia//Sephia.png",
+    "spect":{
+        "1.5 16V": 7310
+    }},
+    "Ka Street": {"_path": "../Fotos//Ka_Stree//Ka_Stree.png",
+    "spect":{
+        "1.0i": 5455
+    }},
+    "ZX Cupê": {"_path": "../Fotos//Zx_Cupe//Zx_Cupe.png",
+    "spect":{
+        "1.5 16V": 9409
+    }},
+    "Xsara GLX": {"_path": "../Fotos//Xsara//Xsara.png",
+    "spect":{
+        "1.8 8V": 8085
+    }},
+    "Fiesta": {"_path": "../Fotos//Fiesta//Fiesta.png",
+    "spect":{
+        "1.0i": 7912
+    }},
+    "Palio EL": {"_path": "../Fotos//Palio_EL//Palio_EL.png",
+    "spect":{
+        "1.6": 11245
+    }},
+    "Palio EDX": {"_path": "../Fotos//Palio_EDX//Palio_EDX.png",
+    "spect":{
+        "1.0": 8656
+    }},
+    "Nubira SW CDX": {"_path": "../Fotos//Nubira//Nubira.png",
+    "spect":{
+        "2.0 16V": 7656
+    }},
+    "306 Passion Sedan": {"_path": "../Fotos//Passion//Passion.png",
+    "spect":{
+        "1.8 16V": 6590
+    }},
+    "Gol": {"_path": "../Fotos//Gol98//Gol98.png",
+    "spect":{
+        "1.6i": 10836
+    }},
+    "Megane Hatch RXE": {"_path": "../Fotos//Megane//Megane.png",
+    "spect":{
+        "2.0": 7746
+    }},
+    "Protegé Aut.": {"_path": "../Fotos//Protege//Protege.png",
+    "spect":{
+        "1.8": 9208
+    }},
+    "Escort GL": {"_path": "../Fotos//Escort//Escort.png",
+    "spect":{
+        "1.8i 16V":  8505
+    }}
+}
