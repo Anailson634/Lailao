@@ -4,8 +4,13 @@
     flex-wrap: wrap;
 }
 .carros {
-    width: 100px;
+    width: 210px;
     height: 100px;
-    border: 1px solid;
     margin: 10px;
+    transition: 50ms;
+} 
+
+.container:hover > :not(:hover) {
+    opacity: 0.3;
+    scale: .9;
 }
